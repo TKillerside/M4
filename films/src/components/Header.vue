@@ -2,7 +2,7 @@
     <header>
         <router-link to="/">Главная</router-link>
         <router-link to="/seasons">Сезоны</router-link>
-        <router-link to="/herous">Герои</router-link>
+        <router-link to="/heroes">Герои</router-link>
         <router-link to="/forum">Форум</router-link>
     </header>
 </template>

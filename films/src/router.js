@@ -13,6 +13,11 @@ let router = createRouter({
             name: "seasons",
             component: () => import("./pages/Seasons.vue"),
         },
+        {
+            path: "/heroes",
+            name: "heroes",
+            component: () => import("./pages/Heroes.vue"),
+        },
         // {
         //     path: "/detail/:id",
         //     name: "detail",
